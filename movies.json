@@ -1,28 +1,11 @@
 [
-  {
-    "id": "V7Hj8JFtwR8",
-    "title": "Vinaya Vidheya Rama",
-    "genres": ["Action","Comedy","Thriller","Suspense"],
-    "thumbnail": "https://img.youtube.com/vi/V7Hj8JFtwR8/0.jpg",
-    "year": "2015",
-    "hero": "Ram Charan",
-    "heroine": "Kiara"
-  },
-  {
-    "id": "Cq3H3o7STLk",
-    "title": "I",
-    "genres": ["Action"],
-    "thumbnail": "https://img.youtube.com/vi/Cq3H3o7STLk/0.jpg",
-    "year": "2025",
-    "hero": "Shiva",
-    "heroine": "Samantha"
-  },
+  
   {
     "id": "Rb8GCqEv1qQ",
     "title": "Kick",
     "genres": ["Action","Comedy"],
     "thumbnail": "https://img.youtube.com/vi/Rb8GCqEv1qQ/0.jpg",
-    "year": "2019",
+    "year": "2009",
     "hero": "Ravi Teja",
     "heroine": "Illeana"
 
@@ -35,85 +18,167 @@
     "year": "2016",
     "hero": "Thalapathy Vijay",
     "heroine": "Samantha"
-  },
+  }, 
   {
-    "id": "dQw4w9WgXcQ",
-    "title": "Movie 1",
+    "id": "dWsIGLsybYQ",
+    "title": "",
     "genres": ["Action","Comedy"],
-    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
-    "year": "2020",
-    "hero": "Thalapathy Vijay",
-    "heroine": "Samantha"
+    "thumbnail": "https://img.youtube.com/vi/dWsIGLsybYQ/0.jpg",
+    "year": "2014",
+    "hero": "Aadi",
+    "heroine": "Rakul Preet Singh"
   },
   {
-    "id": "9bZkp7q19f0",
-    "title": "Movie 2",
-    "genres": ["Action","Thriller"],
-    "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/0.jpg",
-    "year": "2020",
-    "hero": "Thalapathy Vijay",
-    "heroine": "Samantha"
+    "id": "t197BhimicA",
+    "title": "Raghuvaran B.Tech",
+    "genres": ["Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/t197BhimicA/0.jpg",
+    "year": "2014",
+    "hero": "Dhanush",
+    "heroine": "Amala Paul"
   },
   {
-    "id": "3JZ_D3ELwOQ",
-    "title": "Movie 3",
-    "genres": ["Action","Thriller"],
-    "thumbnail": "https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg",
-    "year": "2020",
-    "hero": "Thalapathy Vijay",
-    "heroine": "Samantha"
-  }, {
-    "id": "dQw4w9WgXcQ",
-    "title": "Movie 1",
-    "genres": ["Action","Thriller"],
-    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
-    "year": "2020",
-    "hero": "Thalapathy Vijay",
-    "heroine": "Samantha"
+    "id": "xQVqKoPsF2c",
+    "title": "Oka Laila Kosam",
+    "genres": ["Comedy","Romance"],
+    "thumbnail": "https://img.youtube.com/vi/xQVqKoPsF2c/0.jpg",
+    "year": "2014",
+    "hero": "Naga Chaitanya",
+    "heroine": "Pooja Hegde"
   },
   {
-    "id": "dQw4w9WgXcQ",
-    "title": "Movie 1",
-    "genres": ["Action","Thriller"],
-    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
-    "year": "2020",
-    "hero": "Thalapathy Vijay",
-    "heroine": "Samantha"
+    "id": "mz-i7HXAdFE",
+    "title": "Ekkadiki Pothavu Chinnavada",
+    "genres": ["Thriller","Horror","Romance"],
+    "thumbnail": "https://img.youtube.com/vi/mz-i7HXAdFE/0.jpg",
+    "year": "2016",
+    "hero": "Nikhil Siddhartha",
+    "heroine": "Hebah Patel"
   },
   {
-    "id": "dQw4w9WgXcQ",
-    "title": "Movie 1",
+    "id": "p9xrgKSt82o",
+    "title": "Atharintiki Daaredi",
     "genres": ["Action","Comedy"],
-    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
-    "year": "2020",
-    "hero": "Thalapathy Vijay",
-    "heroine": "Samantha"
+    "thumbnail": "https://img.youtube.com/vi/p9xrgKSt82o/0.jpg",
+    "year": "2013",
+    "hero": "Pawan Kalyan",
+    "heroine": "Samantha Ruth Prabhu"
   },
   {
-    "id": "dQw4w9WgXcQ",
-    "title": "Movie 1",
-    "genres": ["Action","Comedy"],
-    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
-    "year": "2020",
-    "hero": "Thalapathy Vijay",
-    "heroine": "Samantha"
+    "id": "0moane9bFnQ",
+    "title": "Dandupalya 2",
+    "genres": ["Crime","Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/0moane9bFnQ/0.jpg",
+    "year": "2017",
+    "hero": "",
+    "heroine": ""
   },
   {
-    "id": "9bZkp7q19f0",
-    "title": "Movie 2",
-    "genres": ["Action","Comedy"],
-    "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/0.jpg",
-    "year": "2020",
-    "hero": "Thalapathy Vijay",
-    "heroine": "Samantha"
+    "id": "NOFpbJkrFX4",
+    "title": "Annamayya",
+    "genres": ["Devotional","Musical"],
+    "thumbnail": "https://img.youtube.com/vi/NOFpbJkrFX4/0.jpg",
+    "year": "1997",
+    "hero": "Nagarjuna Akkineni",
+    "heroine": "Ramya Krishnan"
   },
   {
-    "id": "3JZ_D3ELwOQ",
-    "title": "Movie 3",
+    "id": "",
+    "title": "Geetha Chalo(Chamak)",
+    "genres": ["Romance","Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/E5kBQTmkdHs/0.jpg",
+    "year": "2017",
+    "hero": "Ganesh",
+    "heroine": "Rashmika Mandanna"
+  },
+  {
+    "id": "tZquI3a1qZw",
+    "title": "Julayi",
+    "genres": ["Comedy","Action"],
+    "thumbnail": "https://img.youtube.com/vi/tZquI3a1qZw/0.jpg",
+    "year": "2012",
+    "hero": "Allu Arjun",
+    "heroine": "Ileana D'Cruz"
+  },
+  {
+    "id": "zZebZBX5LxQ",
+    "title": "Chandrakala(Aranmanai)",
+    "genres": ["Horror","Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/zZebZBX5LxQ/0.jpg",
+    "year": "2014",
+    "hero": "Sundar C",
+    "heroine": "Hansika"
+  },
+  {
+    "id": "IFhuFQ8EuLc",
+    "title": "Ra Ra Krishnayya",
+    "genres": ["Romance","Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/IFhuFQ8EuLc/0.jpg",
+    "year": "2014",
+    "hero": "Sundeep Kishan",
+    "heroine": "Regina Cassandra"
+  },
+  {
+    "id": "bCTJZbwI5_0",
+    "title": "Aadavari Matalaku Arthale Verule",
+    "genres": ["Romance","Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/bCTJZbwI5_0/0.jpg",
+    "year": "2007",
+    "hero": "Daggubati Venkatesh",
+    "heroine": "Trisha Krishnan"
+  },
+  {
+    "id": "_99iJev6sMc",
+    "title": "Yamudu (Singam)",
     "genres": ["Action"],
-    "thumbnail": "https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg",
-    "year": "2020",
-    "hero": "Thalapathy Vijay",
-    "heroine": "Samantha"
+    "thumbnail": "https://img.youtube.com/vi/_99iJev6sMc/0.jpg",
+    "year": "2010",
+    "hero": "Suriya",
+    "heroine": "Anushka Shetty"
+  },
+  {
+    "id": "i2pXuPUGA34",
+    "title": "Mariyan",
+    "genres": ["Thriller","Romance"],
+    "thumbnail": "https://img.youtube.com/vi/i2pXuPUGA34/0.jpg",
+    "year": "2013",
+    "hero": "Dhanush",
+    "heroine": "Parvathy Thiruvothu"
+  },
+  {
+    "id": "zuZ5_ls2_vU",
+    "title": "RajadhiRaja",
+    "genres": ["Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/zuZ5_ls2_vU/0.jpg",
+    "year": "2015",
+    "hero": "Sherwanand",
+    "heroine": "Nithya Menon"
+  },
+  {
+    "id": "vg_DYftPOSg",
+    "title": "Angel",
+    "genres": ["Comedy","Fantasy"],
+    "thumbnail": "https://img.youtube.com/vi/vg_DYftPOSg/0.jpg",
+    "year": "2017",
+    "hero": "Naga Anvesh",
+    "heroine": "Hebah Patel"
+  },
+  {
+    "id": "8SPYkgwi7k8",
+    "title": "Ninne Premistha",
+    "genres": ["Romance","Drama"],
+    "thumbnail": "https://img.youtube.com/vi/8SPYkgwi7k8/0.jpg",
+    "year": "2000",
+    "hero": "Meka Srikanth",
+    "heroine": "K. S. Sowmya Sathyanarayana"
+  },
+  {
+    "id": "",
+    "title": "Nartanasala",
+    "genres": ["Romance","Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/E5kBQTmkdHs/0.jpg",
+    "year": "2018",
+    "hero": "Naga Shaurya",
+    "heroine": "Kashmira Pardeshi"
   }
 ]
