@@ -83,15 +83,6 @@
     "heroine": "Rashmika Mandanna"
   },
   {
-    "id": "tZquI3a1qZw",
-    "title": "Julayi",
-    "genres": ["Comedy","Action"],
-    "thumbnail": "https://img.youtube.com/vi/tZquI3a1qZw/0.jpg",
-    "year": "2012",
-    "hero": "Allu Arjun",
-    "heroine": "Ileana D'Cruz"
-  },
-  {
     "id": "zZebZBX5LxQ",
     "title": "Chandrakala(Aranmanai)",
     "genres": ["Horror","Comedy"],
@@ -171,5 +162,72 @@
     "year": "2018",
     "hero": "Naga Shaurya",
     "heroine": "Kashmira Pardeshi"
+  },
+
+
+
+
+  {
+    "id": "V7Hj8JFtwR8",
+    "title": "Vinaya Vidheya Rama",
+    "genres": ["Action", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/V7Hj8JFtwR8/0.jpg",
+    "year": "2019",
+    "hero": "Ram Charan",
+    "heroine": "Kiara Advani"
+  },
+  {
+    "id": "JQYtgRF_SiI",
+    "title": "Malli Malli Idi Rani Roju",
+    "genres": ["Romance", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/JQYtgRF_SiI/0.jpg",
+    "year": "2015",
+    "hero": "Sharwanand",
+    "heroine": "Nithya Menen"
+  },
+  {
+    "id": "A77rGW61mFI",
+    "title": "Vennela",
+    "genres": ["Romance", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/A77rGW61mFI/0.jpg",
+    "year": "2005",
+    "hero": "Raja",
+    "heroine": "Parvati Melton"
+  },
+  {
+    "id": "44LjTSoL0wE",
+    "title": "Oosaravelli",
+    "genres": ["Action", "Romance"],
+    "thumbnail": "https://img.youtube.com/vi/44LjTSoL0wE/0.jpg",
+    "year": "2011",
+    "hero": "N. T. Rama Rao Jr.",
+    "heroine": "Tamannaah Bhatia"
+  },
+  {
+    "id": "L6OK07vURp4",
+    "title": "Jyo Achyutananda",
+    "genres": ["Romance", "Comedy", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/L6OK07vURp4/0.jpg",
+    "year": "2016",
+    "hero": "Naga Shourya",
+    "heroine": "Regina Cassandra"
+  },
+  {
+    "id": "YpPFA95vf-c",
+    "title": "Oohalu Gusagusalade",
+    "genres": ["Romance", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/YpPFA95vf-c/0.jpg",
+    "year": "2014",
+    "hero": "Naga Shourya",
+    "heroine": "Raashi Khanna"
+  },
+  {
+    "id": "zVm9IFaAJlo",
+    "title": "Raja Vaaru Rani Gaaru",
+    "genres": ["Romance", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/zVm9IFaAJlo/0.jpg",
+    "year": "2019",
+    "hero": "Kiran Abbavaram",
+    "heroine": "Rahasya Gorak"
   }
 ]
