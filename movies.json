@@ -9,19 +9,10 @@
     "hero": "Ravi Teja",
     "heroine": "Illeana"
 
-  },
-  {
-    "id": "0b8OvRCrLms",
-    "title": "Adirindi",
-    "genres": ["Action","Comedy"],
-    "thumbnail": "https://img.youtube.com/vi/0b8OvRCrLms/0.jpg",
-    "year": "2016",
-    "hero": "Thalapathy Vijay",
-    "heroine": "Samantha"
   }, 
   {
     "id": "dWsIGLsybYQ",
-    "title": "",
+    "title": "Rough",
     "genres": ["Action","Comedy"],
     "thumbnail": "https://img.youtube.com/vi/dWsIGLsybYQ/0.jpg",
     "year": "2014",
@@ -83,10 +74,10 @@
     "heroine": "Ramya Krishnan"
   },
   {
-    "id": "",
+    "id": "QFtn96y6LM4",
     "title": "Geetha Chalo(Chamak)",
     "genres": ["Romance","Comedy"],
-    "thumbnail": "https://img.youtube.com/vi/E5kBQTmkdHs/0.jpg",
+    "thumbnail": "https://img.youtube.com/vi/QFtn96y6LM4/0.jpg",
     "year": "2017",
     "hero": "Ganesh",
     "heroine": "Rashmika Mandanna"
@@ -173,10 +164,10 @@
     "heroine": "K. S. Sowmya Sathyanarayana"
   },
   {
-    "id": "",
+    "id": "LA6QIKFdoUw&t=4170s",
     "title": "Nartanasala",
     "genres": ["Romance","Comedy"],
-    "thumbnail": "https://img.youtube.com/vi/E5kBQTmkdHs/0.jpg",
+    "thumbnail": "https://img.youtube.com/vi/LA6QIKFdoUw&t=4170s/0.jpg",
     "year": "2018",
     "hero": "Naga Shaurya",
     "heroine": "Kashmira Pardeshi"
