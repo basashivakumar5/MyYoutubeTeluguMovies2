@@ -421,90 +421,204 @@
     "hero": "Hiphop Tamizha Adhi",
     "heroine": "Anikha Surendran"
   },
-
 {
-        "id": "GLt0Sdq7CLs",
-        "title": "Panja",
-        "genres": [
-            "Action",
-            "Crime",
-            "Drama",
-            "Romantic"
-        ],
-        "thumbnail": "https://img.youtube.com/vi/GLt0Sdq7CLs/0.jpg",
-        "year": "2011",
-        "hero": "Pawan Kalyan",
-        "heroine": "Sarah-Jane Dias"
-    },
-    {
-        "id": "NIHStFohuzg",
-        "title": "3 Monkeys",
-        "genres": [
-            "Comedy",
-            "Drama"
-        ],
-        "thumbnail": "https://img.youtube.com/vi/NIHStFohuzg/0.jpg",
-        "year": "2020",
-        "hero": "Sudigali Sudheer",
-        "heroine": "Karunya Chowdary"
-    },
-    {
-        "id": "FSwCiguOLsw",
-        "title": "Kavacham",
-        "genres": [
-            "Action",
-            "Crime",
-            "Thriller"
-        ],
-        "thumbnail": "https://img.youtube.com/vi/FSwCiguOLsw/0.jpg",
-        "year": "2018",
-        "hero": "Bellamkonda Sreenivas",
-        "heroine": "Kajal Aggarwal"
-    },
-    {
-        "id": "uTiqVNKlg0U",
-        "title": "Aham Reboot",
-        "genres": [
-            "Thriller"
-        ],
-        "thumbnail": "https://img.youtube.com/vi/uTiqVNKlg0U/0.jpg",
-        "year": "2024",
-        "hero": "Sumanth",
-        "heroine": ""
-    },
-    {
-        "id": "8Z8K-EXVu-I",
-        "title": "Vinodam",
-        "genres": [
-            "Comedy"
-        ],
-        "thumbnail": "https://img.youtube.com/vi/8Z8K-EXVu-I/0.jpg",
-        "year": "1996",
-        "hero": "Srikanth",
-        "heroine": "Ravali"
-    },
-    {
-        "id": "Ir_T7S_3Eas",
-        "title": "NENU",
-        "genres": [
-            "Drama"
-        ],
-        "thumbnail": "https://img.youtube.com/vi/Ir_T7S_3Eas/0.jpg",
-        "year": "2014",
-        "hero": "Dulquer Salmaan",
-        "heroine": "Anumol"
-    },
-    {
-        "id": "5kpOEi8jb00",
-        "title": "Mehbooba",
-        "genres": [
-            "Drama",
-            "Romantic",
-            "War"
-        ],
-        "thumbnail": "https://img.youtube.com/vi/5kpOEi8jb00/0.jpg",
-        "year": "2018",
-        "hero": "Akash Puri",
-        "heroine": "Neha Shetty"
-    }
+        "id": "GLt0Sdq7CLs",
+        "title": "Panja",
+        "genres": ["Action","Crime","Drama","Romantic"],
+        "thumbnail": "https://img.youtube.com/vi/GLt0Sdq7CLs/0.jpg",
+        "year": "2011",
+        "hero": "Pawan Kalyan",
+        "heroine": "Sarah-Jane Dias"
+    },
+    {
+        "id": "NIHStFohuzg",
+        "title": "3 Monkeys",
+        "genres": ["Comedy", "Drama"],
+        "thumbnail": "https://img.youtube.com/vi/NIHStFohuzg/0.jpg",
+        "year": "2020",
+        "hero": "Sudigali Sudheer",
+        "heroine": "Karunya Chowdary"
+    },
+    {
+        "id": "FSwCiguOLsw",
+        "title": "Kavacham",
+        "genres": ["Action","Crime","Thriller"],
+        "thumbnail": "https://img.youtube.com/vi/FSwCiguOLsw/0.jpg",
+        "year": "2018",
+        "hero": "Bellamkonda Sreenivas",
+        "heroine": "Kajal Aggarwal"
+    },
+    {
+        "id": "uTiqVNKlg0U",
+        "title": "Aham Reboot",
+        "genres": ["Thriller"],
+        "thumbnail": "https://img.youtube.com/vi/uTiqVNKlg0U/0.jpg",
+        "year": "2024",
+        "hero": "Sumanth",
+        "heroine": ""
+    },
+    {
+        "id": "8Z8K-EXVu-I",
+        "title": "Vinodam",
+        "genres": ["Comedy"],
+        "thumbnail": "https://img.youtube.com/vi/8Z8K-EXVu-I/0.jpg",
+        "year": "1996",
+        "hero": "Srikanth",
+        "heroine": "Ravali"
+    },
+    {
+        "id": "Ir_T7S_3Eas",
+        "title": "NENU",
+        "genres": ["Drama"],
+        "thumbnail": "https://img.youtube.com/vi/Ir_T7S_3Eas/0.jpg",
+        "year": "2014",
+        "hero": "Dulquer Salmaan",
+        "heroine": "Anumol"
+    },
+    {
+        "id": "5kpOEi8jb00",
+        "title": "Mehbooba",
+        "genres": ["Drama","Romantic","War"],
+        "thumbnail": "https://img.youtube.com/vi/5kpOEi8jb00/0.jpg",
+        "year": "2018",
+        "hero": "Akash Puri",
+        "heroine": "Neha Shetty"
+    },   
+
+    {
+    "ID": "i36n4PsZ64A",
+    "title": "VIP 2",
+    "genres":[ "Action, Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/i36n4PsZ64A/0.jpg",
+    "year": "2017",
+    "hero": "Dhanush",
+    "heroine": "Amala Paul"
+  },
+  {
+    "ID": "nVsJLEIMnmE",
+    "title": "Govindudu Andarivadele",
+    "genres": ["Drama, Family"],
+    "thumbnail": "https://img.youtube.com/vi/nVsJLEIMnmE/0.jpg",
+    "year": "2014",
+    "hero": "Ram Charan",
+    "heroine": "Kajal Aggarwal"
+  },
+  {
+    "ID": "W03c_X8VcV0",
+    "title": "Naayak",
+    "genres": ["Action, Drama"],
+    "thumbnail": "https://img.youtube.com/vi/W03c_X8VcV0/0.jpg",
+    "year": "2013",
+    "hero": "Ram Charan",
+    "heroine": "Kajal Aggarwal, Amala Paul"
+  },
+  {
+    "ID": "1DIrsAOkx1c",
+    "title": "Magadheera",
+    "genres": ["Epic, Romantic, Action"],
+    "thumbnail": "https://img.youtube.com/vi/1DIrsAOkx1c/0.jpg",
+    "year": "2009",
+    "hero": "Ram Charan",
+    "heroine": "Kajal Aggarwal"
+  },
+  {
+    "ID": "LWv6s-4Zn48",
+    "title": "Racha",
+    "genres": ["Action"],
+    "thumbnail": "https://img.youtube.com/vi/LWv6s-4Zn48/0.jpg",
+    "year": "2012",
+    "hero": "Ram Charan",
+    "heroine": "Tamannaah Bhatia"
+  },
+  {
+    "ID": "rY9WO1R8Ud8",
+    "title": "Orange",
+    "genres": ["Romantic, Comedy, Drama"],
+    "thumbnail": "https://img.youtube.com/vi/rY9WO1R8Ud8/0.jpg",
+    "year": "2010",
+    "hero": "Ram Charan",
+    "heroine": "Genelia"
+  },
+  {
+    "ID": "tZquI3a1qZw",
+    "title": "Julayi",
+    "genres": ["Action, Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/tZquI3a1qZw/0.jpg",
+    "year": "2012",
+    "hero": "Allu Arjun",
+    "heroine": "Ileana D'Cruz"
+  },
+  {
+    "ID": "oVsA6B1cweo",
+    "title": "Race Gurram",
+    "genres":[ "Action, Comedy, Romance, Family"],
+    "thumbnail": "https://img.youtube.com/vi/oVsA6B1cweo/0.jpg",
+    "year": "2014",
+    "hero": "Allu Arjun",
+    "heroine": "Shruti Haasan"
+  },
+  {
+    "ID": "GQ8hnfe5v_M",
+    "title": "DJ Duvvada Jagannadham",
+    "genres": ["Action, Comedy, Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/GQ8hnfe5v_M/0.jpg",
+    "year": "2017",
+    "hero": "Allu Arjun",
+    "heroine": "Pooja Hegde"
+  },
+  {
+    "ID": "MVBVqEgXDHg",
+    "title": "Happy",
+    "genres": ["Romantic, Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/MVBVqEgXDHg/0.jpg",
+    "year": "2006",
+    "hero": "Allu Arjun",
+    "heroine": "Genelia D'Souza"
+  },
+  {
+    "ID": "KRjVveFkusg",
+    "title": "Bunny",
+    "genres": ["Action, Drama"],
+    "thumbnail": "https://img.youtube.com/vi/KRjVveFkusg/0.jpg",
+    "year": "2005",
+    "hero": "Allu Arjun",
+    "heroine": "Gowri Munjal"
+  },
+  {
+    "ID": "Rv3DLPFbQgA",
+    "title": "Iddarammayilatho",
+    "genres": ["Action, Romance, Suspense and Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/Rv3DLPFbQgA/0.jpg",
+    "year": "2013",
+    "hero": "Allu Arjun",
+    "heroine": "Amala Paul, Catherine Tresa"
+  },
+  {
+    "ID": "nglaj8kH5tA",
+    "title": "S/o Satyamurthy",
+    "genres":[ "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/nglaj8kH5tA/0.jpg",
+    "year": "2015",
+    "hero": "Allu Arjun",
+    "heroine": "Samantha, Nithya Menen"
+  },
+  {
+    "ID": "m6B7KGgC91U",
+    "title": "Desamuduru",
+    "genres": ["Action, Drama, Romantic"],
+    "thumbnail": "https://img.youtube.com/vi/m6B7KGgC91U/0.jpg",
+    "year": "2007",
+    "hero": "Allu Arjun",
+    "heroine": "Hansika Motwani"
+  },
+  {
+    "ID": "78yCIaykqao",
+    "title": "Badrinath",
+    "genres": ["Romantic, Action"],
+    "thumbnail": "https://img.youtube.com/vi/78yCIaykqao/0.jpg",
+    "year": "2011",
+    "hero": "Allu Arjun",
+    "heroine": "Tamannaah Bhatia"
+  }
+    
 ]
