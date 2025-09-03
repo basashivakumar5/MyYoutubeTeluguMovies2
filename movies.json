@@ -420,5 +420,91 @@
     "year": "2024",
     "hero": "Hiphop Tamizha Adhi",
     "heroine": "Anikha Surendran"
-  }
+  },
+
+{
+        "id": "GLt0Sdq7CLs",
+        "title": "Panja",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Romantic"
+        ],
+        "thumbnail": "https://img.youtube.com/vi/GLt0Sdq7CLs/0.jpg",
+        "year": "2011",
+        "hero": "Pawan Kalyan",
+        "heroine": "Sarah-Jane Dias"
+    },
+    {
+        "id": "NIHStFohuzg",
+        "title": "3 Monkeys",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "thumbnail": "https://img.youtube.com/vi/NIHStFohuzg/0.jpg",
+        "year": "2020",
+        "hero": "Sudigali Sudheer",
+        "heroine": "Karunya Chowdary"
+    },
+    {
+        "id": "FSwCiguOLsw",
+        "title": "Kavacham",
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "thumbnail": "https://img.youtube.com/vi/FSwCiguOLsw/0.jpg",
+        "year": "2018",
+        "hero": "Bellamkonda Sreenivas",
+        "heroine": "Kajal Aggarwal"
+    },
+    {
+        "id": "uTiqVNKlg0U",
+        "title": "Aham Reboot",
+        "genres": [
+            "Thriller"
+        ],
+        "thumbnail": "https://img.youtube.com/vi/uTiqVNKlg0U/0.jpg",
+        "year": "2024",
+        "hero": "Sumanth",
+        "heroine": ""
+    },
+    {
+        "id": "8Z8K-EXVu-I",
+        "title": "Vinodam",
+        "genres": [
+            "Comedy"
+        ],
+        "thumbnail": "https://img.youtube.com/vi/8Z8K-EXVu-I/0.jpg",
+        "year": "1996",
+        "hero": "Srikanth",
+        "heroine": "Ravali"
+    },
+    {
+        "id": "Ir_T7S_3Eas",
+        "title": "NENU",
+        "genres": [
+            "Drama"
+        ],
+        "thumbnail": "https://img.youtube.com/vi/Ir_T7S_3Eas/0.jpg",
+        "year": "2014",
+        "hero": "Dulquer Salmaan",
+        "heroine": "Anumol"
+    },
+    {
+        "id": "5kpOEi8jb00",
+        "title": "Mehbooba",
+        "genres": [
+            "Drama",
+            "Romantic",
+            "War"
+        ],
+        "thumbnail": "https://img.youtube.com/vi/5kpOEi8jb00/0.jpg",
+        "year": "2018",
+        "hero": "Akash Puri",
+        "heroine": "Neha Shetty"
+    }
 ]
