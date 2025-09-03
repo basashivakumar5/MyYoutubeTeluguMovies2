@@ -488,7 +488,7 @@
     {
     "ID": "i36n4PsZ64A",
     "title": "VIP 2",
-    "genres":[ "Action, Comedy"],
+    "genres":[ "Action", "Comedy"],
     "thumbnail": "https://img.youtube.com/vi/i36n4PsZ64A/0.jpg",
     "year": "2017",
     "hero": "Dhanush",
@@ -497,7 +497,7 @@
   {
     "ID": "nVsJLEIMnmE",
     "title": "Govindudu Andarivadele",
-    "genres": ["Drama, Family"],
+    "genres": ["Drama", "Family"],
     "thumbnail": "https://img.youtube.com/vi/nVsJLEIMnmE/0.jpg",
     "year": "2014",
     "hero": "Ram Charan",
@@ -506,7 +506,7 @@
   {
     "ID": "W03c_X8VcV0",
     "title": "Naayak",
-    "genres": ["Action, Drama"],
+    "genres": ["Action", "Drama"],
     "thumbnail": "https://img.youtube.com/vi/W03c_X8VcV0/0.jpg",
     "year": "2013",
     "hero": "Ram Charan",
@@ -515,7 +515,7 @@
   {
     "ID": "1DIrsAOkx1c",
     "title": "Magadheera",
-    "genres": ["Epic, Romantic, Action"],
+    "genres": ["Epic", "Romantic", "Action"],
     "thumbnail": "https://img.youtube.com/vi/1DIrsAOkx1c/0.jpg",
     "year": "2009",
     "hero": "Ram Charan",
@@ -533,7 +533,7 @@
   {
     "ID": "rY9WO1R8Ud8",
     "title": "Orange",
-    "genres": ["Romantic, Comedy, Drama"],
+    "genres": ["Romantic", "Comedy", "Drama"],
     "thumbnail": "https://img.youtube.com/vi/rY9WO1R8Ud8/0.jpg",
     "year": "2010",
     "hero": "Ram Charan",
@@ -542,7 +542,7 @@
   {
     "ID": "tZquI3a1qZw",
     "title": "Julayi",
-    "genres": ["Action, Comedy"],
+    "genres": ["Action", C"omedy"],
     "thumbnail": "https://img.youtube.com/vi/tZquI3a1qZw/0.jpg",
     "year": "2012",
     "hero": "Allu Arjun",
@@ -551,7 +551,7 @@
   {
     "ID": "oVsA6B1cweo",
     "title": "Race Gurram",
-    "genres":[ "Action, Comedy, Romance, Family"],
+    "genres":[ "Action", "Comedy", "Romance", "Family"],
     "thumbnail": "https://img.youtube.com/vi/oVsA6B1cweo/0.jpg",
     "year": "2014",
     "hero": "Allu Arjun",
@@ -560,7 +560,7 @@
   {
     "ID": "GQ8hnfe5v_M",
     "title": "DJ Duvvada Jagannadham",
-    "genres": ["Action, Comedy, Thriller"],
+    "genres": ["Action", "Comedy", "Thriller"],
     "thumbnail": "https://img.youtube.com/vi/GQ8hnfe5v_M/0.jpg",
     "year": "2017",
     "hero": "Allu Arjun",
@@ -569,7 +569,7 @@
   {
     "ID": "MVBVqEgXDHg",
     "title": "Happy",
-    "genres": ["Romantic, Comedy"],
+    "genres": ["Romantic", "Comedy"],
     "thumbnail": "https://img.youtube.com/vi/MVBVqEgXDHg/0.jpg",
     "year": "2006",
     "hero": "Allu Arjun",
@@ -578,7 +578,7 @@
   {
     "ID": "KRjVveFkusg",
     "title": "Bunny",
-    "genres": ["Action, Drama"],
+    "genres": ["Action", "Drama"],
     "thumbnail": "https://img.youtube.com/vi/KRjVveFkusg/0.jpg",
     "year": "2005",
     "hero": "Allu Arjun",
@@ -587,7 +587,7 @@
   {
     "ID": "Rv3DLPFbQgA",
     "title": "Iddarammayilatho",
-    "genres": ["Action, Romance, Suspense and Thriller"],
+    "genres": ["Action", "Romance", "Suspense and Thriller"],
     "thumbnail": "https://img.youtube.com/vi/Rv3DLPFbQgA/0.jpg",
     "year": "2013",
     "hero": "Allu Arjun",
@@ -605,7 +605,7 @@
   {
     "ID": "m6B7KGgC91U",
     "title": "Desamuduru",
-    "genres": ["Action, Drama, Romantic"],
+    "genres": ["Action", "Drama", "Romantic"],
     "thumbnail": "https://img.youtube.com/vi/m6B7KGgC91U/0.jpg",
     "year": "2007",
     "hero": "Allu Arjun",
@@ -614,11 +614,12 @@
   {
     "ID": "78yCIaykqao",
     "title": "Badrinath",
-    "genres": ["Romantic, Action"],
+    "genres": ["Romantic", "Action"],
     "thumbnail": "https://img.youtube.com/vi/78yCIaykqao/0.jpg",
     "year": "2011",
     "hero": "Allu Arjun",
     "heroine": "Tamannaah Bhatia"
   }
+    
     
 ]
