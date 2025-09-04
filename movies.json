@@ -619,6 +619,323 @@
     "year": "2011",
     "hero": "Allu Arjun",
     "heroine": "Tamannaah Bhatia"
+  },
+
+
+    {
+    "id": "KAcOQ5gvSC8",
+    "title": "Mr. Perfect",
+    "genres": ["Romance", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/KAcOQ5gvSC8/0.jpg",
+    "year": "2011",
+    "hero": "Prabhas",
+    "heroine": "Kajal Aggarwal"
+  },
+  {
+    "id": "l9ReKBDaZVo",
+    "title": "Munna",
+    "genres": ["Action", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/l9ReKBDaZVo/0.jpg",
+    "year": "2007",
+    "hero": "Prabhas",
+    "heroine": "Ileana D'Cruz"
+  },
+  {
+    "id": "nf1OpDXnrCc",
+    "title": "Rebel",
+    "genres": ["Action"],
+    "thumbnail": "https://img.youtube.com/vi/nf1OpDXnrCc/0.jpg",
+    "year": "2012",
+    "hero": "Prabhas",
+    "heroine": "Tamannaah Bhatia"
+  },
+  {
+    "id": "f9SIFownXUk",
+    "title": "Ek Niranjan",
+    "genres": ["Action"],
+    "thumbnail": "https://img.youtube.com/vi/f9SIFownXUk/0.jpg",
+    "year": "2009",
+    "hero": "Prabhas",
+    "heroine": "Kangana Ranaut"
+  },
+  {
+    "id": "gBkL9foQxBk",
+    "title": "Chatrapathi",
+    "genres": ["Action", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/gBkL9foQxBk/0.jpg",
+    "year": "2005",
+    "hero": "Prabhas",
+    "heroine": "Shriya Saran"
+  },
+  {
+    "id": "f8wRhgAIiMc",
+    "title": "Varsham",
+    "genres": ["Romantic", "Action"],
+    "thumbnail": "https://img.youtube.com/vi/f8wRhgAIiMc/0.jpg",
+    "year": "2004",
+    "hero": "Prabhas",
+    "heroine": "Trisha Krishnan"
+  },
+  {
+    "id": "8GgTogVBjRo",
+    "title": "Bujjigadu",
+    "genres": ["Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/8GgTogVBjRo/0.jpg",
+    "year": "2008",
+    "hero": "Prabhas",
+    "heroine": "Trisha Krishnan"
+  },
+  {
+    "id": "TDoA-7LqIuE",
+    "title": "Raghavendra",
+    "genres": ["Action"],
+    "thumbnail": "https://img.youtube.com/vi/TDoA-7LqIuE/0.jpg",
+    "year": "2003",
+    "hero": "Prabhas",
+    "heroine": "Anshu"
+  },
+  {
+    "id": "b8dvhBPrGtw",
+    "title": "Mirchi",
+    "genres": ["Romance", "Action"],
+    "thumbnail": "https://img.youtube.com/vi/b8dvhBPrGtw/0.jpg",
+    "year": "2013",
+    "hero": "Prabhas",
+    "heroine": "Anushka Shetty"
+  },
+  {
+    "id": "KGa8wieNE6s",
+    "title": "Brindavanam",
+    "genres": ["Romance", "Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/KGa8wieNE6s/0.jpg",
+    "year": "2010",
+    "hero": "Jr. NTR",
+    "heroine": "Kajal Aggarwal"
+  },
+  {
+    "id": "ZHBDvxB0Wdc",
+    "title": "Simhadri",
+    "genres": ["Action"],
+    "thumbnail": "https://img.youtube.com/vi/ZHBDvxB0Wdc/0.jpg",
+    "year": "2003",
+    "hero": "Jr. NTR",
+    "heroine": "Bhoomika Chawla"
+  },
+  {
+    "id": "tVLu60NDjZY",
+    "title": "Ramayya Vasthavayya",
+    "genres": ["Action"],
+    "thumbnail": "https://img.youtube.com/vi/tVLu60NDjZY/0.jpg",
+    "year": "2013",
+    "hero": "Jr. NTR",
+    "heroine": "Samantha Ruth Prabhu"
+  },
+  {
+    "id": "ieOiW-k6KVE",
+    "title": "Naa Alludu",
+    "genres": ["Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/ieOiW-k6KVE/0.jpg",
+    "year": "2005",
+    "hero": "Jr. NTR",
+    "heroine": "Shriya Saran"
+  },
+  {
+    "id": "_Nq2m5LRQ3g",
+    "title": "Janatha Garage",
+    "genres": ["Action", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/_Nq2m5LRQ3g/0.jpg",
+    "year": "2016",
+    "hero": "Jr. NTR",
+    "heroine": "Samantha Ruth Prabhu"
+  },
+  {
+    "id": "xPctR3dR5f8",
+    "title": "Ashok",
+    "genres": ["Action", "Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/xPctR3dR5f8/0.jpg",
+    "year": "2006",
+    "hero": "Jr. NTR",
+    "heroine": "Sameera Reddy"
+  },
+  {
+    "id": "_29c-X9EDjc",
+    "title": "Allari Ramudu",
+    "genres": ["Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/_29c-X9EDjc/0.jpg",
+    "year": "2002",
+    "hero": "Jr. NTR",
+    "heroine": "Aarthi Agarwal"
+  },
+  {
+    "id": "uPdXi6xIBlc",
+    "title": "Balu ABCDEFG",
+    "genres": ["Action", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/uPdXi6xIBlc/0.jpg",
+    "year": "2005",
+    "hero": "Pawan Kalyan",
+    "heroine": "Shriya Saran"
+  },
+  {
+    "id": "mka9f5I5eSU",
+    "title": "Thammudu",
+    "genres": ["Romance", "Action", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/mka9f5I5eSU/0.jpg",
+    "year": "1999",
+    "hero": "Pawan Kalyan",
+    "heroine": "Preeti Jhangiani"
+  },
+  {
+    "id": "EztUsjJAh0E",
+    "title": "Gabbar Singh",
+    "genres": ["Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/EztUsjJAh0E/0.jpg",
+    "year": "2012",
+    "hero": "Pawan Kalyan",
+    "heroine": "Shruti Haasan"
+  },
+  {
+    "id": "68wSTlrw_RQ",
+    "title": "Jalsa",
+    "genres": ["Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/68wSTlrw_RQ/0.jpg",
+    "year": "2008",
+    "hero": "Pawan Kalyan",
+    "heroine": "Ileana D'Cruz"
+  },
+  {
+    "id": "zAtgTpO-724",
+    "title": "Johnny",
+    "genres": ["Action"],
+    "thumbnail": "https://img.youtube.com/vi/zAtgTpO-724/0.jpg",
+    "year": "2003",
+    "hero": "Pawan Kalyan",
+    "heroine": "Renu Desai"
+  },
+  {
+    "id": "Vl5a-mrhXGk",
+    "title": "Akkada Ammayi Ikkada Abbayi",
+    "genres": ["Romance", "Action"],
+    "thumbnail": "https://img.youtube.com/vi/Vl5a-mrhXGk/0.jpg",
+    "year": "1996",
+    "hero": "Pawan Kalyan",
+    "heroine": "Supriya"
+  },
+  {
+    "id": "gr7TttotBD8",
+    "title": "Thammudu",
+    "genres": ["Romance", "Action", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/gr7TttotBD8/0.jpg",
+    "year": "1999",
+    "hero": "Pawan Kalyan",
+    "heroine": "Preeti Jhangiani"
+  },
+  {
+    "id": "iwdC7TGACSk",
+    "title": "Suswagatham",
+    "genres": ["Romance", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/iwdC7TGACSk/0.jpg",
+    "year": "1998",
+    "hero": "Pawan Kalyan",
+    "heroine": "Devayani"
+  },
+  {
+    "id": "ZKbydYg8R-E",
+    "title": "Brahmotsavam",
+    "genres": ["Drama"],
+    "thumbnail": "https://img.youtube.com/vi/ZKbydYg8R-E/0.jpg",
+    "year": "2016",
+    "hero": "Mahesh Babu",
+    "heroine": "Samantha Ruth Prabhu"
+  },
+  {
+    "id": "LS6XiINMc2s",
+    "title": "Srimanthudu",
+    "genres": ["Action", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/LS6XiINMc2s/0.jpg",
+    "year": "2015",
+    "hero": "Mahesh Babu",
+    "heroine": "Shruti Haasan"
+  },
+  {
+    "id": "M5rXgWKooz0",
+    "title": "Dookudu",
+    "genres": ["Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/M5rXgWKooz0/0.jpg",
+    "year": "2011",
+    "hero": "Mahesh Babu",
+    "heroine": "Samantha Ruth Prabhu"
+  },
+  {
+    "id": "hravgftk9gQ",
+    "title": "Aagadu",
+    "genres": ["Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/hravgftk9gQ/0.jpg",
+    "year": "2014",
+    "hero": "Mahesh Babu",
+    "heroine": "Tamannaah Bhatia"
+  },
+  {
+    "id": "z4FK_IKIwQE",
+    "title": "Raja Kumarudu",
+    "genres": ["Romance", "Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/z4FK_IKIwQE/0.jpg",
+    "year": "1999",
+    "hero": "Mahesh Babu",
+    "heroine": "Preity Zinta"
+  },
+  {
+    "id": "iB0Ru8ncc2A",
+    "title": "Sainikudu",
+    "genres": ["Action", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/iB0Ru8ncc2A/0.jpg",
+    "year": "2006",
+    "hero": "Mahesh Babu",
+    "heroine": "Trisha Krishnan"
+  },
+  {
+    "id": "1CIWTLmcb8Q",
+    "title": "Khaleja",
+    "genres": ["Fantasy", "Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/1CIWTLmcb8Q/0.jpg",
+    "year": "2010",
+    "hero": "Mahesh Babu",
+    "heroine": "Anushka Shetty"
+  },
+  {
+    "id": "sqW95LOMrBU",
+    "title": "Nenu Local",
+    "genres": ["Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/sqW95LOMrBU/0.jpg",
+    "year": "2017",
+    "hero": "Nani",
+    "heroine": "Keerthy Suresh"
+  },
+  {
+    "id": "uwJYlzoT0eE",
+    "title": "Ninnu Kori",
+    "genres": ["Romance", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/uwJYlzoT0eE/0.jpg",
+    "year": "2017",
+    "hero": "Nani",
+    "heroine": "Nivetha Thomas"
+  },
+  {
+    "id": "RKo4GMc4f6w",
+    "title": "Middle Class Abbayi (MCA)",
+    "genres": ["Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/RKo4GMc4f6w/0.jpg",
+    "year": "2017",
+    "hero": "Nani",
+    "heroine": "Sai Pallavi"
+  },
+  {
+    "id": "u4fetE5LDqg",
+    "title": "Pilla Zamindar",
+    "genres": ["Comedy", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/u4fetE5LDqg/0.jpg",
+    "year": "2011",
+    "hero": "Nani",
+    "heroine": "Haripriya"
   }
     
     
