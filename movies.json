@@ -478,7 +478,7 @@
     {
         "id": "5kpOEi8jb00",
         "title": "Mehbooba",
-        "genres": ["Drama","Romantic","War"],
+        "genres": ["Drama","Romance"],
         "thumbnail": "https://img.youtube.com/vi/5kpOEi8jb00/0.jpg",
         "year": "2018",
         "hero": "Akash Puri",
@@ -542,7 +542,7 @@
   {
     "ID": "tZquI3a1qZw",
     "title": "Julayi",
-    "genres": ["Action", C"omedy"],
+    "genres": ["Action", "Comedy"],
     "thumbnail": "https://img.youtube.com/vi/tZquI3a1qZw/0.jpg",
     "year": "2012",
     "hero": "Allu Arjun",
@@ -587,7 +587,7 @@
   {
     "ID": "Rv3DLPFbQgA",
     "title": "Iddarammayilatho",
-    "genres": ["Action", "Romance", "Suspense and Thriller"],
+    "genres": ["Action", "Romance", "Thriller"],
     "thumbnail": "https://img.youtube.com/vi/Rv3DLPFbQgA/0.jpg",
     "year": "2013",
     "hero": "Allu Arjun",
