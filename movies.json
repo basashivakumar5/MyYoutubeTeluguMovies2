@@ -937,164 +937,156 @@
     "hero": "Nani",
     "heroine": "Haripriya"
   },
-  {
+  
+{
 "id": "DDWPxs8zTzg",
-"title": "Dwaraka",
-"genres": ["Drama", "Comedy"],
-"thumbnail": "https://img.youtube.com/vi/DDWPxs8zTzg/0.jpg",
-"year": "2017",
-"hero": "Vijay Deverakonda",
-"heroine": "Pooja Jhaveri"
-},
-{
-"id": "Df7STZvA9pI",
-"title": "Seema Tapakai",
-"genres": ["Comedy" ],"thumbnail": "https://img.youtube.com/vi/Df7STZvA9pI/0.jpg",
-"year": "2011",
-"hero": "Allari Naresh",
-"heroine": "Shamna Kasim"
-},
-{
-"id": "f5SWp3NyV3w",
-"title": "Ye Mantram Vesave",
-"genres": ["Romance","Drama"],
-"thumbnail": "https://img.youtube.com/vi/f5SWp3NyV3w/0.jpg",
-"year": "2018",
-"hero": "Vijay Deverakonda",
-"heroine": "Shivani Singh"
-},
-{
-"id": "hbGk0KGN9oY",
-"title": "Pellaindi Kaani",
-"genres": ["Romance","Comedy"],
-"thumbnail": "https://img.youtube.com/vi/hbGk0KGN9oY/0.jpg",
-"year": "2007",
-"hero": "Allari Naresh",
-"heroine": "Kamalinee Mukerji"
-},
-{
-"id": "ZAtCIYkcTas",
 "title": "Bommana Brothers Chandana Sisters",
-"genres": ["Comedy","Drama"],
-"thumbnail": "https://img.youtube.com/vi/ZAtCIYkcTas/0.jpg",
+"genres": ["Comedy", "Drama"],
+"thumbnail": "https://img.youtube.com/vi/DDWPxs8zTzg/0.jpg",
 "year": "2008",
 "hero": "Allari Naresh",
 "heroine": "Farjana"
 },
 {
-"id": "n23uT38skpY",
-"title": "Taxiwaala",
-"genres": ["Comedy","Thriller"
-],
-"thumbnail": "https://img.youtube.com/vi/n23uT38skpY/0.jpg",
-"year": "2018",
-"hero": "Vijay Deverakonda",
-"heroine": "Priyanka Jawalkar"
-},
-{
-"id": "J6V_2VzG1ek",
-"title": "Nuvvu Naaku Nachav",
-"genres": ["Comedy"],
-"thumbnail": "https://img.youtube.com/vi/J6V_2VzG1ek/0.jpg",
-"year": "2001",
-"hero": "Venkatesh Daggubati",
-"heroine": "Aarti Agarwal"
-},
-{
-"id": "bVPE9Cn3hqM",
-"title": "James Bond",
-"genres": ["Action","Comedy"],
-"thumbnail": "https://img.youtube.com/vi/bVPE9Cn3hqM/0.jpg",
-"year": "2015",
-"hero": "Allari Naresh",
-"heroine": "Sakshi Chaudhary"
-},
-{
-"id": "T7kuh1mxqh4",
-"title": "Kitakitalu",
-"genres": ["Romance","Comedy"],
-"thumbnail": "https://img.youtube.com/vi/T7kuh1mxqh4/0.jpg",
-"year": "2006",
-"hero": "Allari Naresh",
-"heroine": "Geetha Singh"
-},
-{
-"id": "Y61n1H9nxsI",
-"title": "Malliswari",
-"genres": ["Comedy","Drama"],
-"thumbnail": "https://img.youtube.com/vi/Y61n1H9nxsI/0.jpg",
-"year": "2004",
-"hero": "Venkatesh Daggubati",
-"heroine": "Katrina Kaif"
-},
-{
-"id": "GROKNJIKCDg",
-"title": "Evadi Gola Vaadidi",
-"genres": ["Comedy"],
-"thumbnail": "https://img.youtube.com/vi/GROKNJIKCDg/0.jpg",
-"year": "2005",
-"hero": "Aryan Rajesh",
-"heroine": "Deepika"
-},
-{
-"id": "0I26IxQ0QEs",
-"title": "Athili Sattibabu LKG",
-"genres": ["Comedy"],
-"thumbnail": "https://img.youtube.com/vi/0I26IxQ0QEs/0.jpg",
-"year": "2007",
-"hero": "Allari Naresh",
-"heroine": "Kausha Rach"
-},
-{
-"id": "jkztmled5Y8",
-"title": "Vasantam",
-"genres": ["Drama"],
-"thumbnail": "https://img.youtube.com/vi/jkztmled5Y8/0.jpg",
-"year": "2003",
-"hero": "Venkatesh",
-"heroine": "Arti Agarwal"
-},
-{
-"id": "ybMe0U8N-9g",
+"id": "Df7STZvA9pI",
 "title": "Madatha Kaaja",
-"genres": ["Comedy","Romance"],
-"thumbnail": "https://img.youtube.com/vi/ybMe0U8N-9g/0.jpg",
+"genres": ["Romantic", "Comedy"],
+"thumbnail": "https://img.youtube.com/vi/Df7STZvA9pI/0.jpg",
 "year": "2011",
 "hero": "Allari Naresh",
 "heroine": "Sneha Ullal"
 },
 {
-"id": "9hMJVLamVKo",
+"id": "f5SWp3NyV3w",
+"title": "Evadi Gola Vaadidi",
+"genres": ["Comedy"],
+"thumbnail": "https://img.youtube.com/vi/f5SWp3NyV3w/0.jpg",
+"year": "2005",
+"hero": "Aryan Rajesh",
+"heroine": "Deepika"
+},
+{
+"id": "hbGk0KGN9oY",
 "title": "Bendu Apparao R.M.P",
-"genres": ["Romance","Comedy"],
-"thumbnail": "https://img.youtube.com/vi/9hMJVLamVKo/0.jpg",
+"genres": ["Comedy", "Romance"],
+"thumbnail": "https://img.youtube.com/vi/hbGk0KGN9oY/0.jpg",
 "year": "2009",
 "hero": "Allari Naresh",
 "heroine": "Kamna Jethmalani"
 },
 {
-"id": "mLvMHWXSJQU",
+"id": "ZAtCIYkcTas",
+"title": "Allari",
+"genres": ["Romantic", "Comedy"],
+"thumbnail": "https://img.youtube.com/vi/ZAtCIYkcTas/0.jpg",
+"year": "2002",
+"hero": "Allari Naresh",
+"heroine": "Swetha Agrawal"
+},
+{
+"id": "n23uT38skpY",
+"title": "Athili Sattibabu LKG",
+"genres": ["Comedy"],
+"thumbnail": "https://img.youtube.com/vi/n23uT38skpY/0.jpg",
+"year": "2007",
+"hero": "Allari Naresh",
+"heroine": "Kausha Rach"
+},
+{
+"id": "J6V_2VzG1ek",
+"title": "James Bond",
+"genres": ["Action", "Comedy"],
+"thumbnail": "https://img.youtube.com/vi/J6V_2VzG1ek/0.jpg",
+"year": "2015",
+"hero": "Allari Naresh",
+"heroine": "Sakshi Chaudhary"
+},
+{
+"id": "bVPE9Cn3hqM",
+"title": "Aha Naa Pellanta",
+"genres": ["Action", "Comedy"],
+"thumbnail": "https://img.youtube.com/vi/bVPE9Cn3hqM/0.jpg",
+"year": "2011",
+"hero": "Allari Naresh",
+"heroine": "Ritu Barmecha"
+},
+{
+"id": "T7kuh1mxqh4",
+"title": "Seema Tapakai",
+"genres": ["Comedy"],
+"thumbnail": "https://img.youtube.com/vi/T7kuh1mxqh4/0.jpg",
+"year": "2011",
+"hero": "Allari Naresh",
+"heroine": "Shamna Kasim"
+},
+{
+"id": "Y61n1H9nxsI",
+"title": "Pellaindi Kaani",
+"genres": ["Comedy", "Romance"],
+"thumbnail": "https://img.youtube.com/vi/Y61n1H9nxsI/0.jpg",
+"year": "2007",
+"hero": "Allari Naresh",
+"heroine": "Kamalinee Mukerji"
+},
+{
+"id": "0I26IxQ0QEs",
+"title": "Dwaraka",
+"genres": ["Romantic", "Drama", "Comedy"],
+"thumbnail": "https://img.youtube.com/vi/0I26IxQ0QEs/0.jpg",
+"year": "2017",
+"hero": "Vijay Deverakonda",
+"heroine": "Pooja Jhaveri"
+},
+{
+"id": "jkztmled5Y8",
+"title": "Kitakitalu",
+"genres": ["Romantic", "Comedy"],
+"thumbnail": "https://img.youtube.com/vi/jkztmled5Y8/0.jpg",
+"year": "2006",
+"hero": "Allari Naresh",
+"heroine": "Geetha Singh"
+},
+{
+"id": "ybMe0U8N-9g",
 "title": "Siddu from Sikakulam",
 "genres": ["Comedy"],
-"thumbnail": "https://img.youtube.com/vi/mLvMHWXSJQU/0.jpg",
+"thumbnail": "https://img.youtube.com/vi/ybMe0U8N-9g/0.jpg",
 "year": "2008",
 "hero": "Allari Naresh",
-"heroine": "Manjari Phadnis"
+"heroine": "Manjari Fadnnis"
+},
+{
+"id": "9hMJVLamVKo",
+"title": "Bangaru Bullodu",
+"genres": ["Comedy", "Romance"],
+"thumbnail": "https://img.youtube.com/vi/9hMJVLamVKo/0.jpg",
+"year": "2021",
+"hero": "Allari Naresh",
+"heroine": "Pooja Jhaveri"
+},
+{
+"id": "mLvMHWXSJQU",
+"title": "Kathi Kantha Rao",
+"genres": ["Comedy", "Drama"],
+"thumbnail": "https://img.youtube.com/vi/mLvMHWXSJQU/0.jpg",
+"year": "2010",
+"hero": "Allari Naresh",
+"heroine": "Kamna Jethmalani"
 },
 {
 "id": "unOYr97BL6Y",
-"title": "Chintakayala Ravi",
-"genres": ["Romance","Comedy"],
+"title": "Allari Alludu",
+"genres": ["Comedy", "Romance", "Drama"],
 "thumbnail": "https://img.youtube.com/vi/unOYr97BL6Y/0.jpg",
-"year": "2008",
-"hero": "Venkatesh",
-"heroine": "Anushka Shetty"
+"year": "1993",
+"hero": "Nagarjuna",
+"heroine": "Meena"
 },
 {
 "id": "kqSb32tfASU",
 "title": "Life is Beautiful",
-"genres": ["Romance"
-],"thumbnail": "https://img.youtube.com/vi/kqSb32tfASU/0.jpg",
+"genres": ["Romance", "Drama"],
+"thumbnail": "https://img.youtube.com/vi/kqSb32tfASU/0.jpg",
 "year": "2012",
 "hero": "Abijeet Duddala",
 "heroine": "Shriya Saran"
@@ -1102,11 +1094,11 @@
 {
 "id": "Tv74F32dMOA",
 "title": "Yamudiki Mogudu",
-"genres": ["Fantasy"],
+"genres": ["Fantasy", "Comedy"],
 "thumbnail": "https://img.youtube.com/vi/Tv74F32dMOA/0.jpg",
-"year": "",
+"year": "2012",
 "hero": "Allari Naresh",
-"heroine": ""
+"heroine": "Richa Panai"
 },
 {
 "id": "s16n5d9HKog",
@@ -1117,6 +1109,7 @@
 "hero": "Venkatesh",
 "heroine": "Meena"
 }
+
     
     
 ]
