@@ -1072,5 +1072,77 @@
 "year": "",
 "hero": "Allari Naresh",
 "heroine": ""
-}   
+},
+      {
+        "id": "KkqC5nX5ae0",
+        "title": "Daruvu",
+        "genres": ["Comedy","Action"],
+        "thumbnail": "https://img.youtube.com/vi/KkqC5nX5ae0/0.jpg",
+        "year": "2012",
+        "hero": "Ravi Teja",
+        "heroine": "Taapsee Pannu"
+    },
+    {
+        "id": "dtw25FNcm6Y",
+        "title": "Baladoor",
+        "genres": ["Comedy","Action"],
+        "thumbnail": "https://img.youtube.com/vi/dtw25FNcm6Y/0.jpg",
+        "year": "2008",
+        "hero": "Ravi Teja",
+        "heroine": "Ileana D'Cruz"
+    },
+    {
+        "id": "BslcqqAOmRQ&t=9s",
+        "title": "Rarandoi Veduka Chudham",
+        "genres": ["Comedy","Romance"],
+        "thumbnail": "https://img.youtube.com/vi/BslcqqAOmRQ&t=9s/0.jpg",
+        "year": "2017",
+        "hero": "Naga Chaitanya",
+        "heroine": "Rakul Preet Singh"
+    },
+    {
+        "id": "xQVqKoPsF2c",
+        "title": "Oka Laila Kosam",
+        "genres": ["Comedy","Romance"],
+        "thumbnail": "https://img.youtube.com/vi/xQVqKoPsF2c/0.jpg",
+        "year": "2014 ",
+        "hero": "Naga Chaitanya",
+        "heroine": "Pooja Hegde"
+    },
+    {
+        "id": "rovgHBGnojQ",
+        "title": "Ye Maaya Chesave",
+        "genres": ["Romance","Drama"],
+        "thumbnail": "https://img.youtube.com/vi/rovgHBGnojQ/0.jpg",
+        "year": "2010",
+        "hero": "Naga Chaitanya",
+        "heroine": "Samantha Ruth Prabhu"
+    },
+    {
+        "id": "D06awr4iZMw",
+        "title": "100% Love",
+        "genres": ["Comedy","Romance"],
+        "thumbnail": "https://img.youtube.com/vi/D06awr4iZMw/0.jpg",
+        "year": "2011",
+        "hero": "Naga Chaitanya",
+        "heroine": "Tamanna Bhatia"
+    },
+    {
+        "id": "KSNRxNv7omM",
+        "title": "Ready",
+        "genres": ["Comedy","Action"],
+        "thumbnail": "https://img.youtube.com/vi/KSNRxNv7omM/0.jpg",
+        "year": "2008",
+        "hero": "Ram Pothineni",
+        "heroine": "Genelia D'Souza"
+    },
+    {
+        "id": "l2pTCiIl1Zw",
+        "title": "Nenu Sailaja",
+        "genres": ["Comedy","Romance"],
+        "thumbnail": "https://img.youtube.com/vi/l2pTCiIl1Zw/0.jpg",
+        "year": "2016",
+        "hero": "Ram Pothineni",
+        "heroine": "Keerthy Suresh"
+    }
 ]
