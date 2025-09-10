@@ -713,15 +713,6 @@
     "heroine": "Bhoomika Chawla"
   },
   {
-    "id": "tVLu60NDjZY",
-    "title": "Ramayya Vasthavayya",
-    "genres": ["Action"],
-    "thumbnail": "https://img.youtube.com/vi/tVLu60NDjZY/0.jpg",
-    "year": "2013",
-    "hero": "Jr. NTR",
-    "heroine": "Samantha Ruth Prabhu"
-  },
-  {
     "id": "ieOiW-k6KVE",
     "title": "Naa Alludu",
     "genres": ["Action", "Comedy"],
@@ -743,7 +734,7 @@
     "id": "xPctR3dR5f8",
     "title": "Ashok",
     "genres": ["Action", "Thriller"],
-    "thumbnail": "https://img.youtube.com/vi/xPctR3dR5f8/0.jpg",
+    "thumbnail": "",
     "year": "2006",
     "hero": "Jr. NTR",
     "heroine": "Sameera Reddy"
@@ -1165,12 +1156,12 @@
   },
   {
     "id": "WMR6dkCAt0Y",
-    "title": "Alibaba 40 Dongalu",
-    "genres": ["Fantasy"],
+    "title": "Bhuvana Vijayam",
+    "genres": ["Comedy","Horror"],
     "thumbnail": "https://img.youtube.com/vi/WMR6dkCAt0Y/0.jpg",
-    "year": "1970",
-    "hero": "N. T. Rama Rao",
-    "heroine": "Jayalalithaa"
+    "year": "2023",
+    "hero": "Sunil",
+    "heroine": "Kamat"
   },
   {
     "id": "cuewRj4Lepk",
@@ -1182,15 +1173,6 @@
     "heroine": "Trisha"
   },
   {
-    "id": "uMRWxbC1UZo",
-    "title": "Yamadonga",
-    "genres": ["Fantasy", "Action", "Comedy"],
-    "thumbnail": "https://img.youtube.com/vi/uMRWxbC1UZo/0.jpg",
-    "year": "2007",
-    "hero": "N. T. Rama Rao Jr.",
-    "heroine": "Priyamani"
-  },
-  {
     "id": "Y9WuP4KcsEM",
     "title": "Pallakilo Pellikuthuru",
     "genres": ["Romance", "Comedy"],
@@ -1200,57 +1182,66 @@
     "heroine": "Rathi"
   },
   {
-    "id": "vacL8i-A4tk",
+    "id": "uMRWxbC1UZo",
     "title": "Swamy Ra Ra",
     "genres": ["Crime", "Comedy"],
-    "thumbnail": "https://img.youtube.com/vi/vacL8i-A4tk/0.jpg",
+    "thumbnail": "https://img.youtube.com/vi/uMRWxbC1UZo/0.jpg",
     "year": "2013",
     "hero": "Nikhil Siddharth",
     "heroine": "Swathi Reddy"
   },
   {
+    "id": "vacL8i-A4tk",
+    "title": "Yamadonga",
+    "genres": ["Fantasy", "Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/vacL8i-A4tk/0.jpg",
+    "year": "2007",
+    "hero": "N. T. Rama Rao Jr.",
+    "heroine": "Priyamani"
+  },
+  {
     "id": "1GneGGwJS-U",
-    "title": "Rama Rama Krishna Krishna",
+    "title": "Purushotamudu",
     "genres": ["Action", "Drama"],
     "thumbnail": "https://img.youtube.com/vi/1GneGGwJS-U/0.jpg",
+    "year": "2024",
+    "hero": "Raj Tarun",
+    "heroine": ""
+  },
+  {
+    "id": "mPFjZoofR-I",
+    "title": "Rama Rama Krishna Krishna",
+    "genres": ["Action", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/mPFjZoofR-I/0.jpg",
     "year": "2010",
     "hero": "Ram Pothineni",
     "heroine": "Priya Anand"
   },
   {
-    "id": "mPFjZoofR-I",
+    "id": "Px5nHPQZ-1o",
     "title": "Legend",
     "genres": ["Action", "Drama"],
-    "thumbnail": "https://img.youtube.com/vi/mPFjZoofR-I/0.jpg",
+    "thumbnail": "https://img.youtube.com/vi/Px5nHPQZ-1o/0.jpg",
     "year": "2014",
     "hero": "Nandamuri Balakrishna",
     "heroine": "Radhika Apte"
   },
   {
-    "id": "Px5nHPQZ-1o",
+    "id": "bvzYVvGiJmI",
     "title": "Chandramukhi",
     "genres": ["Thriller", "Comedy", "Horror"],
-    "thumbnail": "https://img.youtube.com/vi/Px5nHPQZ-1o/0.jpg",
+    "thumbnail": "https://img.youtube.com/vi/bvzYVvGiJmI/0.jpg",
     "year": "2005",
     "hero": "Rajinikanth",
     "heroine": "Jyothika"
   },
   {
-    "id": "bvzYVvGiJmI",
-    "title": "Purushothamudu",
-    "genres": ["Action", "Drama"],
-    "thumbnail": "https://img.youtube.com/vi/bvzYVvGiJmI/0.jpg",
-    "year": "2024",
-    "hero": "Raj Tarun",
-    "heroine": "Hassini Sudhir"
-  },
-  {
     "id": "L7lIWA82yEE",
-    "title": "Bhuvana Vijayam",
-    "genres": ["Comedy", "Thriller"],
     "thumbnail": "https://img.youtube.com/vi/L7lIWA82yEE/0.jpg",
-    "year": "2023",
-    "hero": "Sunil",
-    "heroine": "Vasanthi Krishnan"
+    "title": "Alibaba 40 Dongalu",
+    "genres": ["Fantasy"],
+    "year": "1970",
+    "hero": "N. T. Rama Rao",
+    "heroine": "Jayalalithaa"
   }
 ]
