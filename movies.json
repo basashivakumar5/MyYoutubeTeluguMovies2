@@ -1243,5 +1243,122 @@
     "year": "1970",
     "hero": "N. T. Rama Rao",
     "heroine": "Jayalalithaa"
+  },
+  {
+    "id": "daWU9FpqDLo",
+    "thumbnail": "https://img.youtube.com/vi/daWU9FpqDLo/0.jpg",
+    "title": "Rudrangi",
+    "genres": ["Action","Thriller"],
+    "year": "2023",
+    "hero": "Jagapathi Babu",
+    "heroine": "Mamta Mohandas"
+  },
+  {
+    "id": "oRZCokubdS0",
+    "thumbnail": "https://img.youtube.com/vi/oRZCokubdS0/0.jpg",
+    "title": "Sri Satyanarayana Swamy",
+    "genres": ["Devotional"],
+    "year": "2007",
+    "hero": "Suman Talwar",
+    "heroine": "Ravali"
+  },
+  {
+    "id": "ukb6BWIf_9M",
+    "thumbnail": "https://img.youtube.com/vi/ukb6BWIf_9M/0.jpg",
+    "title": "Bujji Ila Raa",
+    "genres": ["Thriller"],
+    "year": "2022",
+    "hero": "Sunil",
+    "heroine": "Chandini Tamilarasan"
+  },
+  {
+    "id": "yXqb4ROlfI0",
+    "thumbnail": "https://img.youtube.com/vi/yXqb4ROlfI0/0.jpg",
+    "title": "Big Brother",
+    "genres": ["Action","Thriller"],
+    "year": "2020",
+    "hero": "Mohanlal",
+    "heroine": "Honey Rose"
+  },
+  {
+    "id": "vAXrKz0cz4w",
+    "thumbnail": "https://img.youtube.com/vi/vAXrKz0cz4w/0.jpg",
+    "title": "Kasthuri Mahal",
+    "genres": ["Horror","Drama"],
+    "year": "2022",
+    "hero": "Skanda Ashok",
+    "heroine": "Shanvi Srivastava"
+  },
+  {
+    "id": "RO4xXvBkAwk",
+    "thumbnail": "https://img.youtube.com/vi/RO4xXvBkAwk/0.jpg",
+    "title": "Nenunnanu",
+    "genres": ["Action","Drama"],
+    "year": "2004",
+    "hero": "Akkineni Nagarjuna",
+    "heroine": "Shriya Saran"
+  },
+  {
+    "id": "biuzcZLMPO8",
+    "thumbnail": "https://img.youtube.com/vi/biuzcZLMPO8/0.jpg",
+    "title": "Gun Shot",
+    "genres": ["Action","Thriller"],
+    "year": "2014",
+    "hero": "Mohanlal",
+    "heroine": "Mohanlal"
+  },
+  {
+    "id": "dU6xLV9JBI4",
+    "thumbnail": "https://img.youtube.com/vi/dU6xLV9JBI4/0.jpg",
+    "title": "Lacchi",
+    "genres": ["Comedy","Drama"],
+    "year": "2017",
+    "hero": "Tej Dilip",
+    "heroine": "Jayathi"
+  },
+  {
+    "id": "bD14OdGvPZA",
+    "thumbnail": "https://img.youtube.com/vi/bD14OdGvPZA/0.jpg",
+    "title": "Bootcut Balaraju",
+    "genres": ["Action","Thriller"],
+    "year": "2023",
+    "hero": "Syed Sohel",
+    "heroine": "Megha Lekha"
+  },
+  {
+    "id": "AkHv63ndNpo",
+    "thumbnail": "https://img.youtube.com/vi/AkHv63ndNpo/0.jpg",
+    "title": "Akira",
+    "genres": ["Thriller","Horror"],
+    "year": "2017",
+    "hero": "Virat",
+    "heroine": "Anusha"
+  },
+  {
+    "id": "LefEsxTDEqA",
+    "thumbnail": "https://img.youtube.com/vi/LefEsxTDEqA/0.jpg",
+    "title": "The Last Page",
+    "genres": ["Thriller"],
+    "year": "2021",
+    "hero": "",
+    "heroine": "Amrutha Srinivasan"
+  },
+  {
+    "id": "KVVgO28Gx-4",
+    "thumbnail": "https://img.youtube.com/vi/KVVgO28Gx-4/0.jpg",
+    "title": "Salute",
+    "genres": ["Action","Drama"],
+    "year": "2008",
+    "hero": "Vishal (actor)",
+    "heroine": "Nayanthara"
+  },
+  {
+    "id": "JZ8t7let7Ow",
+    "thumbnail": "https://img.youtube.com/vi/JZ8t7let7Ow/0.jpg",
+    "title": "Shukra",
+    "genres": ["Crime","Thriller"],
+    "year": "2021",
+    "hero": "Arvind Krishna",
+    "heroine": "Srijita Ghosh"
   }
 ]
