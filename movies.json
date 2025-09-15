@@ -1353,6 +1353,51 @@
     "heroine": "Nayanthara"
   },
   {
+    "id": "F3QXqBy9K6o",
+    "thumbnail": "https://img.youtube.com/vi/F3QXqBy9K6o/0.jpg",
+    "title": "Dr. 56",
+    "genres": ["Sci-fi","Thriller"],
+    "year": "2022",
+    "hero": "",
+    "heroine": "Priyamani"
+  },
+  {
+    "id": "TX5BeFoj1qc",
+    "thumbnail": "https://img.youtube.com/vi/TX5BeFoj1qc/0.jpg",
+    "title": "The Priest",
+    "genres": ["Horror","Thriller"],
+    "year": "2021",
+    "hero": "Mammootty",
+    "heroine": "Ameya Mathew"
+  },
+  {
+    "id": "MHcAkKogTs0",
+    "thumbnail": "https://img.youtube.com/vi/MHcAkKogTs0/0.jpg",
+    "title": "Mr.King",
+    "genres": ["Romance","Thriller"],
+    "year": "2023",
+    "hero": "Sharan Kumar",
+    "heroine": "Yashvika Nishkala"
+  },
+  {
+    "id": "j1-NDx_4Phk",
+    "thumbnail": "https://img.youtube.com/vi/j1-NDx_4Phk/0.jpg",
+    "title": "inspector bharath",
+    "genres": ["Crime","Thriller"],
+    "year": "2019",
+    "hero": "Bharath",
+    "heroine": ""
+  },
+  {
+    "id": "IqY_kvtcD3c",
+    "thumbnail": "https://img.youtube.com/vi/IqY_kvtcD3c/0.jpg",
+    "title": "Ra Ra Swamy Ra Ra",
+    "genres": ["Horror","Thriller"],
+    "year": "2021",
+    "hero": "",
+    "heroine": "Lakshmi Priya"
+  },
+  {
     "id": "JZ8t7let7Ow",
     "thumbnail": "https://img.youtube.com/vi/JZ8t7let7Ow/0.jpg",
     "title": "Shukra",
@@ -1360,5 +1405,59 @@
     "year": "2021",
     "hero": "Arvind Krishna",
     "heroine": "Srijita Ghosh"
+  },
+  {
+    "id": "HFEsM_uk1Ik",
+    "thumbnail": "https://img.youtube.com/vi/HFEsM_uk1Ik/0.jpg",
+    "title": "Tata Birla Madhyalo Laila",
+    "genres": ["Comedy"],
+    "year": "2006",
+    "hero": "Sivaji",
+    "heroine": "Laya"
+  },
+  {
+    "id": "9z2-hA5Amuc",
+    "thumbnail": "https://img.youtube.com/vi/9z2-hA5Amuc/0.jpg",
+    "title": "Gharshana",
+    "genres": ["Action","Thriller"],
+    "year": "2021",
+    "hero": "Venkatesh Daggubati",
+    "heroine": "Asin Thottumkal"
+  },
+  {
+    "id": "tc0Wi7FW2sc",
+    "thumbnail": "https://img.youtube.com/vi/tc0Wi7FW2sc/0.jpg",
+    "title": "Lakshmi's NTR",
+    "genres": ["Drama"],
+    "year": "2019",
+    "hero": "P Vijay Kumar",
+    "heroine": "Yagna Shetty"
+  },
+  {
+    "id": "CNGIWhIFhP4",
+    "thumbnail": "https://img.youtube.com/vi/CNGIWhIFhP4/0.jpg",
+    "title": "bharani",
+    "genres": ["Action","Drama"],
+    "year": "2007",
+    "hero": "Vishal",
+    "heroine": "Muktha"
+  },
+  {
+    "id": "rXrJXRuqt9Y",
+    "thumbnail": "https://img.youtube.com/vi/rXrJXRuqt9Y/0.jpg",
+    "title": "Potugadu",
+    "genres": ["Comedy","Drama"],
+    "year": "2013",
+    "hero": "Manchu Manoj",
+    "heroine": "Sakshi Chaudhary"
+  },
+  {
+    "id": "SbebJZR_mD0",
+    "thumbnail": "https://img.youtube.com/vi/SbebJZR_mD0/0.jpg",
+    "title": "nuvvu nenu prema",
+    "genres": ["Romance","Drama"],
+    "year": "2006",
+    "hero": "Suriya",
+    "heroine": "Jyothika"
   }
 ]
