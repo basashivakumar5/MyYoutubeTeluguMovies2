@@ -242,7 +242,7 @@
   {
     "id": "tw2XvRqeXSA",
     "title": "Prema Pipasi",
-    "genres": ["Romantic", "Comedy"],
+    "genres": ["Romance", "Comedy"],
     "thumbnail": "https://img.youtube.com/vi/tw2XvRqeXSA/0.jpg",
     "year": "2020",
     "hero": "GPS",
@@ -278,7 +278,7 @@
   {
     "id": "NL_ngbJk7j4",
     "title": "Thuglaq",
-    "genres": ["Romantic", "Thriller"],
+    "genres": ["Romance", "Thriller"],
     "thumbnail": "https://img.youtube.com/vi/NL_ngbJk7j4/0.jpg",
     "year": "2022",
     "hero": "Chandra Bose",
@@ -415,7 +415,7 @@
 {
         "id": "GLt0Sdq7CLs",
         "title": "Panja",
-        "genres": ["Action","Crime","Drama","Romantic"],
+        "genres": ["Action","Crime","Drama","Romance"],
         "thumbnail": "https://img.youtube.com/vi/GLt0Sdq7CLs/0.jpg",
         "year": "2011",
         "hero": "Pawan Kalyan",
@@ -506,7 +506,7 @@
   {
     "id": "1DIrsAOkx1c",
     "title": "Magadheera",
-    "genres": ["Epic", "Romantic", "Action"],
+    "genres": ["Epic", "Romance", "Action"],
     "thumbnail": "https://img.youtube.com/vi/1DIrsAOkx1c/0.jpg",
     "year": "2009",
     "hero": "Ram Charan",
@@ -524,7 +524,7 @@
   {
     "id": "rY9WO1R8Ud8",
     "title": "Orange",
-    "genres": ["Romantic", "Comedy", "Drama"],
+    "genres": ["Romance", "Comedy", "Drama"],
     "thumbnail": "https://img.youtube.com/vi/rY9WO1R8Ud8/0.jpg",
     "year": "2010",
     "hero": "Ram Charan",
@@ -560,7 +560,7 @@
   {
     "id": "MVBVqEgXDHg",
     "title": "Happy",
-    "genres": ["Romantic", "Comedy"],
+    "genres": ["Romance", "Comedy"],
     "thumbnail": "https://img.youtube.com/vi/MVBVqEgXDHg/0.jpg",
     "year": "2006",
     "hero": "Allu Arjun",
@@ -596,7 +596,7 @@
   {
     "id": "m6B7KGgC91U",
     "title": "Desamuduru",
-    "genres": ["Action", "Drama", "Romantic"],
+    "genres": ["Action", "Drama", "Romance"],
     "thumbnail": "https://img.youtube.com/vi/m6B7KGgC91U/0.jpg",
     "year": "2007",
     "hero": "Allu Arjun",
@@ -605,7 +605,7 @@
   {
     "id": "78yCIaykqao",
     "title": "Badrinath",
-    "genres": ["Romantic", "Action"],
+    "genres": ["Romance", "Action"],
     "thumbnail": "https://img.youtube.com/vi/78yCIaykqao/0.jpg",
     "year": "2011",
     "hero": "Allu Arjun",
@@ -661,7 +661,7 @@
   {
     "id": "f8wRhgAIiMc",
     "title": "Varsham",
-    "genres": ["Romantic", "Action"],
+    "genres": ["Romance", "Action"],
     "thumbnail": "https://img.youtube.com/vi/f8wRhgAIiMc/0.jpg",
     "year": "2004",
     "hero": "Prabhas",
@@ -1459,5 +1459,257 @@
     "year": "2006",
     "hero": "Suriya",
     "heroine": "Jyothika"
+  },
+  {
+    "id": "ij5_LLl3WLw",
+    "title": "Shirdi Sai",
+    "genres": ["Biographical", "Devotional"],
+    "thumbnail": "https://img.youtube.com/vi/ij5_LLl3WLw/0.jpg",
+    "year": "2012",
+    "hero": "Nagarjuna",
+    "heroine": "Kamalini Mukherjee"
+  },
+  {
+    "id": "xyZmOmAQILg",
+    "title": "Jawaan",
+    "genres": ["Action", "Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/xyZmOmAQILg/0.jpg",
+    "year": "2017",
+    "hero": "Sai Dharam Tej",
+    "heroine": "Mehreen Pirzada"
+  },
+  {
+    "id": "NQ8RteRUTJU",
+    "title": "3",
+    "genres": ["Romance", "Psychological Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/NQ8RteRUTJU/0.jpg",
+    "year": "2012",
+    "hero": "Dhanush",
+    "heroine": "Shruti Haasan"
+  },
+  {
+    "id": "zM3raz5fvOk",
+    "title": "Paapa",
+    "genres": ["Drama", "Horror"],
+    "thumbnail": "https://img.youtube.com/vi/zM3raz5fvOk/0.jpg",
+    "year": "2015",
+    "hero": "Deepak",
+    "heroine": "Jaqlene Prakash"
+  },
+  {
+    "id": "w4Hfeq2_X8c",
+    "title": "Hushaaru",
+    "genres": ["Comedy", "Drama", "Adventure"],
+    "thumbnail": "https://img.youtube.com/vi/w4Hfeq2_X8c/0.jpg",
+    "year": "2018",
+    "hero": "Rahul Ramakrishna, Tejus Kancherla, Dinesh Tej",
+    "heroine": "Priya Vadlamani, Daksha Nagarkar, Hemal Ingle"
+  },
+  {
+    "id": "qf0nCArnvbs",
+    "title": "Suryakantham",
+    "genres": ["Comedy", "Romance", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/qf0nCArnvbs/0.jpg",
+    "year": "2019",
+    "hero": "Rahul Vijay",
+    "heroine": "Niharika Konidela"
+  },
+  {
+    "id": "IUf7wbZUbAw",
+    "title": "Touch Chesi Chudu",
+    "genres": ["Action", "Drama", "Romance"],
+    "thumbnail": "https://img.youtube.com/vi/IUf7wbZUbAw/0.jpg",
+    "year": "2018",
+    "hero": "Ravi Teja",
+    "heroine": "Raashi Khanna, Seerat Kapoor"
+  },
+  {
+    "id": "BQOPKtpN5SM",
+    "title": "Venkatapuram",
+    "genres": ["Crime", "Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/BQOPKtpN5SM/0.jpg",
+    "year": "2017",
+    "hero": "Rahul Haridas",
+    "heroine": "Mahima Makwana"
+  },
+  {
+    "id": "FSwCiguOLsw",
+    "title": "Kavacham",
+    "genres": ["Action", "Crime", "Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/FSwCiguOLsw/0.jpg",
+    "year": "2018",
+    "hero": "Bellamkonda Sreenivas",
+    "heroine": "Kajal Aggarwal, Mehreen Pirzada"
+  },
+  {
+    "id": "G66q8H5ajmc",
+    "title": "Kondapolam",
+    "genres": ["Action", "Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/G66q8H5ajmc/0.jpg",
+    "year": "2021",
+    "hero": "Panja Vaisshnav Tej",
+    "heroine": "Rakul Preet Singh"
+  },
+  {
+    "id": "6oRVY3y1aBU",
+    "title": "BOTTU",
+    "genres": ["Horror", "Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/6oRVY3y1aBU/0.jpg",
+    "year": "2019",
+    "hero": "Bharath Srinivasan",
+    "heroine": "Iniya, Srushti Dange"
+  },
+  {
+    "id": "yY61AftDKcI",
+    "title": "Sri Rama Rajyam",
+    "genres": ["Mythology", "Devotional"],
+    "thumbnail": "https://img.youtube.com/vi/yY61AftDKcI/0.jpg",
+    "year": "2011",
+    "hero": "Nandamuri Balakrishna",
+    "heroine": "Nayanthara"
+  },
+  {
+    "id": "woJYGaGpjTU",
+    "title": "Baasha",
+    "genres": ["Action", "Crime", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/woJYGaGpjTU/0.jpg",
+    "year": "1995",
+    "hero": "Rajinikanth",
+    "heroine": "Nagma"
+  },
+   {
+    "id": "K73o5xKm79E",
+    "title": "Sapthagiri LLB",
+    "genres": ["Comedy", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/K73o5xKm79E/0.jpg",
+    "year": "2017",
+    "hero": "Saptagiri",
+    "heroine": "Kashish Vohra"
+  },
+  {
+    "id": "jxsZqX_Nw0M",
+    "title": "Son of India",
+    "genres": ["Action", "Drama", "Historical"],
+    "thumbnail": "https://img.youtube.com/vi/jxsZqX_Nw0M/0.jpg",
+    "year": "2022",
+    "hero": "Dr. M. Mohan Babu",
+    "heroine": "Pragya Jaiswal"
+  },
+  {
+    "id": "3y3pRuLon_E",
+    "title": "Ye Endaka Godugu",
+    "genres": ["Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/3y3pRuLon_E/0.jpg",
+    "year": "2022",
+    "hero": "Ashok Selvan",
+    "heroine": "Anju Kurian"
+  },
+  {
+    "id": "O9TdBoS-a0E",
+    "title": "Rowdy Fellow",
+    "genres": ["Action", "Romance"],
+    "thumbnail": "https://img.youtube.com/vi/O9TdBoS-a0E/0.jpg",
+    "year": "2014",
+    "hero": "Nara Rohit",
+    "heroine": "Vishakha Singh"
+  },
+  {
+    "id": "2qskR2305dg",
+    "title": "Detective Karthik",
+    "genres": ["Crime", "Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/2qskR2305dg/0.jpg",
+    "year": "2023",
+    "hero": "Rajath Raghav",
+    "heroine": "Goldie Nissy"
+  },
+  {
+    "id": "hAv1TquPfcw",
+    "title": "Amrutham Chandamamalo",
+    "genres": ["Comedy", "Fantasy"],
+    "thumbnail": "https://img.youtube.com/vi/hAv1TquPfcw/0.jpg",
+    "year": "2014",
+    "hero": "Srinivas Avasarala",
+    "heroine": null
+  },
+  {
+    "id": "RiK24F81YHU",
+    "title": "Gharana Mogudu",
+    "genres": ["Drama", "Romance", "Action"],
+    "thumbnail": "https://img.youtube.com/vi/RiK24F81YHU/0.jpg",
+    "year": "1992",
+    "hero": "Chiranjeevi",
+    "heroine": "Nagma"
+  },
+  {
+    "id": "i36n4PsZ64A",
+    "title": "VIP 2",
+    "genres": ["Action", "Drama", "Romance"],
+    "thumbnail": "https://img.youtube.com/vi/i36n4PsZ64A/0.jpg",
+    "year": "2017",
+    "hero": "Dhanush",
+    "heroine": "Kajol, Amala Paul"
+  },
+  {
+    "id": "TSseMfWwlbk",
+    "title": "HOME",
+    "genres": ["Drama"],
+    "thumbnail": "https://img.youtube.com/vi/TSseMfWwlbk/0.jpg",
+    "year": "2021",
+    "hero": "Indrans",
+    "heroine": "Deepa Thomas"
+  },
+  {
+    "id": "5kpOEi8jb00",
+    "title": "Mehbooba",
+    "genres": ["Drama", "Romance"],
+    "thumbnail": "https://img.youtube.com/vi/5kpOEi8jb00/0.jpg",
+    "year": "2008",
+    "hero": "Ajay Devgn, Sanjay Dutt",
+    "heroine": "Manisha Koirala"
+  },
+  {
+    "id": "cur9lOqZXvU",
+    "title": "Right Right",
+    "genres": ["Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/cur9lOqZXvU/0.jpg",
+    "year": "2016",
+    "hero": "Sumanth Ashwin",
+    "heroine": "Pooja Jhaveri"
+  },
+  {
+    "id": "uTiqVNKlg0U",
+    "title": "Aham Reboot",
+    "genres": ["Sci-fi", "Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/uTiqVNKlg0U/0.jpg",
+    "year": "2024",
+    "hero": "Sumanth",
+    "heroine": null
+  },
+  {
+    "id": "wvMEhm4sKmU",
+    "title": "Sasirekha Parinayam",
+    "genres": ["Romance", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/wvMEhm4sKmU/0.jpg",
+    "year": "2009",
+    "hero": "Tarun",
+    "heroine": "Genelia"
+  },
+  {
+    "id": "ToHVim2O7kI",
+    "title": "Vangaveeti",
+    "genres": ["Action"],
+    "thumbnail": "https://img.youtube.com/vi/ToHVim2O7kI/0.jpg",
+    "year": "2016",
+    "hero": "Sandeep Kumar",
+    "heroine": "Naina Ganguly"
+  },
+  {
+    "id": "RKo4GMc4f6w",
+    "title": "MCA",
+    "genres": ["Action", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/RKo4GMc4f6w/0.jpg",
+    "year": "2017",
+    "hero": "Nani",
+    "heroine": "Sai Pallavi, Bhumika Chawla"
   }
 ]
