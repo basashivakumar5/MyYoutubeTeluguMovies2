@@ -1776,6 +1776,15 @@
     "heroine": "Samantha Ruth Prabhu"
   },
   {
+    "id": "0gYRk8akwrU",
+    "title": "Theerppu",
+    "genres": ["Thriller", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/0gYRk8akwrU/0.jpg",
+    "year": "2017",
+    "hero": "Prithviraj Sukumaran",
+    "heroine": "Hannah Reji Koshy"
+  },
+  {
     "id": "QRsAQwptNPs",
     "title": "Sivakarthikeyan Shakthi",
     "genres": ["Action", "Drama"],
@@ -1785,12 +1794,201 @@
     "heroine": "Kalyani Priyadarshan"
   },
   {
-    "id": "0gYRk8akwrU",
+    "id": "rT8t97evFyM",
+    "title": "Shivangi Lioness",
+    "genres": ["Thriller", "Horror"],
+    "thumbnail": "https://img.youtube.com/vi/rT8t97evFyM/0.jpg",
+    "year": "2025",
+    "hero": "",
+    "heroine": "Anandhi "
+  },
+  {
+    "id": "DZr8rJMwdYg",
+    "title": "vaikuntapali",
+    "genres": ["Horror"],
+    "thumbnail": "https://img.youtube.com/vi/DZr8rJMwdYg/0.jpg",
+    "year": "2017",
+    "hero": "Ketan Sai",
+    "heroine": "Mary"
+  },
+  {
+    "id": "sgJv-UmLIcU",
+    "title": "Gaalodu",
+    "genres": ["Action", "Romance"],
+    "thumbnail": "https://img.youtube.com/vi/sgJv-UmLIcU/0.jpg",
+    "year": "2022",
+    "hero": "Sudigali Sudheer",
+    "heroine": "Gehna Sippy"
+  },
+  {
+    "id": "wHzpe9LM38c",
+    "title": "Rajugari Kodipulao",
+    "genres": ["Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/wHzpe9LM38c/0.jpg",
+    "year": "2023",
+    "hero": "Kunal Kaushik",
+    "heroine": "Prachi Thakker"
+  },
+  {
+    "id": "S6SAzPsb_sg",
+    "title": "Nagaram",
+    "genres": ["Thriller", "Action"],
+    "thumbnail": "https://img.youtube.com/vi/S6SAzPsb_sg/0.jpg",
+    "year": "2017",
+    "hero": "Sundeep Kishan",
+    "heroine": "Regina Cassandra"
+  },
+  {
+    "id": "CfTZ4RUxspg",
+    "title": "Demon",
+    "genres": ["Thriller", "Horror"],
+    "thumbnail": "https://img.youtube.com/vi/CfTZ4RUxspg/0.jpg",
+    "year": "2023",
+    "hero": "Sachin Mani",
+    "heroine": "Suruthi Periyasamy"
+  },
+  {
+    "id": "aXWBwAstR6o",
+    "title": "V1: The Unsolved Murder Case",
+    "genres": ["Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/aXWBwAstR6o/0.jpg",
+    "year": "2019",
+    "hero": "Ram Arun Castro",
+    "heroine": "Vishnupriya Pillai"
+  },
+  {
+    "id": "UKnYw_6QOJw",
+    "title": "Sarangadhariya",
+    "genres": ["Drama"],
+    "thumbnail": "https://img.youtube.com/vi/UKnYw_6QOJw/0.jpg",
+    "year": "2024",
+    "hero": "Mohit Pedada",
+    "heroine": "Yashaswini Srinivas"
+  },
+  {
+    "id": "tHFuXZrkTEI",
+    "title": "Antony",
+    "genres": ["Thriller", "Action"],
+    "thumbnail": "https://img.youtube.com/vi/tHFuXZrkTEI/0.jpg",
+    "year": "2023",
+    "hero": "Joju George",
+    "heroine": "Kalyani Priyadarshan"
+  },
+  {
+    "id": "KwCMrW4km1c",
+    "title": "Reyiki Veyi Kallu",
+    "genres": ["Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/KwCMrW4km1c/0.jpg",
+    "year": "2018",
+    "hero": "Arulnithi",
+    "heroine": "Mahima Nambiar"
+  },
+  {
+    "id": "uMGzmV60mFo",
     "title": "Theerppu",
-    "genres": ["Thriller", "Drama"],
+    "genres": ["Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/uMGzmV60mFo/0.jpg",
+    "year": "2025",
+    "hero": "Ashock Kumar",
+    "heroine": "Hrithika Srinivas"
+  },
+  {
+    "id": "UwEDUpBPdgc",
+    "title": "Boochamma Boochodu",
+    "genres": ["Thriller", "Horror"],
+    "thumbnail": "https://img.youtube.com/vi/UwEDUpBPdgc/0.jpg",
+    "year": "2019",
+    "hero": "Sivaji",
+    "heroine": "Kainaz Motivala"
+  },
+  {
+    "id": "ez8ZBbuLSWg",
+    "title": "Intelligent Police (Kaval)",
+    "genres": ["Thriller", "Action"],
+    "thumbnail": "https://img.youtube.com/vi/ez8ZBbuLSWg/0.jpg",
+    "year": "2021",
+    "hero": "Samuthirakani",
+    "heroine": ""
+  },
+  {
+    "id": "NNLImu8JUz0",
+    "title": "Theerppu",
+    "genres": ["Drama"],
+    "thumbnail": "https://img.youtube.com/vi/NNLImu8JUz0/0.jpg",
+    "year": "2021",
+    "hero": "Shiva Kandukuri",
+    "heroine": "Shriya Saran"
+  },
+  {
+    "id": "kWJVlctOgp8",
+    "title": "Theerppu",
+    "genres": ["Thriller", "Action"],
+    "thumbnail": "https://img.youtube.com/vi/kWJVlctOgp8/0.jpg",
+    "year": "2023",
+    "hero": "Natarajan Subramaniam NATTY",
+    "heroine": "Vidya Pradeep"
+  },
+  {
+    "id": "GaGpqIEAOxY",
+    "title": "Derick Abraham",
+    "genres": ["Thriller","Action","Crime"],
+    "thumbnail": "https://img.youtube.com/vi/GaGpqIEAOxY/0.jpg",
+    "year": "2018",
+    "hero": "Mammootty",
+    "heroine": ""
+  },
+  {
+    "id": "3eg9pPk-Umk",
+    "title": "Yamudu 3",
+    "genres": ["Action"],
     "thumbnail": "https://img.youtube.com/vi/0gYRk8akwrU/0.jpg",
     "year": "2017",
-    "hero": "Prithviraj Sukumaran",
-    "heroine": "Hannah Reji Koshy"
+    "hero": "Suriya",
+    "heroine": "Anushka Shetty"
+  },
+  {
+    "id": "An2P8-9V0uQ",
+    "title": "369",
+    "genres": ["Thriller", "Crime"],
+    "thumbnail": "https://img.youtube.com/vi/An2P8-9V0uQ/0.jpg",
+    "year": "2018",
+    "hero": "Hemanth Menon",
+    "heroine": "Miyasree"
+  },
+  {
+    "id": "K3y6PitPdhM",
+    "title": "Chennai Lo Ragala 24 Gantalu",
+    "genres": ["Thriller", "Crime"],
+    "thumbnail": "https://img.youtube.com/vi/K3y6PitPdhM/0.jpg",
+    "year": "2017",
+    "hero": "Sarathkumar",
+    "heroine": ""
+  },
+  {
+    "id": "mloSWi-VNao",
+    "title": "kaliveerudu",
+    "genres": ["Action"],
+    "thumbnail": "https://img.youtube.com/vi/mloSWi-VNao/0.jpg",
+    "year": "2024",
+    "hero": "Ekalavyaa",
+    "heroine": "Chirashree Anchan"
+  },
+  {
+    "id": "OCUqjemJAL0",
+    "title": "Vismaya",
+    "genres": ["Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/OCUqjemJAL0/0.jpg",
+    "year": "2017",
+    "hero": "Kishore",
+    "heroine": "Priyamani"
+  },
+  {
+    "id": "NviW3v-EKC4",
+    "title": "Daarling 2",
+    "genres": ["Horror", "Comedy"],
+    "thumbnail": "https://img.youtube.com/vi/NviW3v-EKC4/0.jpg",
+    "year": "2016",
+    "hero": "Kalaiyarasan",
+    "heroine": ""
   }
 ]
