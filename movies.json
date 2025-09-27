@@ -722,15 +722,6 @@
     "heroine": "Samantha Ruth Prabhu"
   },
   {
-    "id": "xPctR3dR5f8",
-    "title": "Ashok",
-    "genres": ["Action", "Thriller"],
-    "thumbnail": "",
-    "year": "2006",
-    "hero": "Jr. NTR",
-    "heroine": "Sameera Reddy"
-  },
-  {
     "id": "_29c-X9EDjc",
     "title": "Allari Ramudu",
     "genres": ["Action", "Comedy"],
@@ -1990,5 +1981,160 @@
     "year": "2016",
     "hero": "Kalaiyarasan",
     "heroine": ""
+  },
+
+  
+  {
+    "id": "1PM9dJbM7jA",
+    "title": "V2 Double Murder",
+    "genres": ["Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/1PM9dJbM7jA/0.jpg",
+    "year": "2024",
+    "hero": "Anil Anto",
+    "heroine": "Meera Nair"
+  },
+  {
+    "id": "jY9-5ND7ac4",
+    "title": "O Stree",
+    "genres": ["Romance", "Drama"],
+    "thumbnail": "https://img.youtube.com/vi/jY9-5ND7ac4/0.jpg",
+    "year": "2025",
+    "hero": "Varthik",
+    "heroine": "Keerthi Anand"
+  },
+  {
+    "id": "TkicfRD3LmI",
+    "title": "369",
+    "genres": ["Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/TkicfRD3LmI/0.jpg",
+    "year": "2018",
+    "hero": "Miya Sree",
+    "heroine": "Hemanth Menon"
+  },
+  {
+    "id": "59XSxd2-Bkg",
+    "title": "Asuraguru",
+    "genres": ["Thriller","Action"],
+    "thumbnail": "https://img.youtube.com/vi/59XSxd2-Bkg/0.jpg",
+    "year": "2020",
+    "hero": "Vikram Prabhu",
+    "heroine": "Mahima Nambiar"
+  },
+  {
+    "id": "eRg1LO879M0",
+    "title": "465",
+    "genres": ["Horror"],
+    "thumbnail": "https://img.youtube.com/vi/eRg1LO879M0/0.jpg",
+    "year": "2017",
+    "hero": "Karthik raj",
+    "heroine": "Niranjana"
+  },
+  {
+    "id": "LfdU1ioyCpg",
+    "title": "CSI Sanatan",
+    "genres": ["Crime","Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/LfdU1ioyCpg/0.jpg",
+    "year": "2023",
+    "hero": "Aadi",
+    "heroine": "Misha Narang"
+  },
+  {
+    "id": "lnyl_p4dEsc",
+    "title": "Serial Killer",
+    "genres": ["Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/lnyl_p4dEsc/0.jpg",
+    "year": "2017",
+    "hero": "",
+    "heroine": "Swathi Reddy"
+  },
+  {
+    "id": "A91ED_aZXvs",
+    "title": "Nenu Meeku Baga Kaavalsinavaadini",
+    "genres": ["Comedy","Romance"],
+    "thumbnail": "https://img.youtube.com/vi/A91ED_aZXvs/0.jpg",
+    "year": "2022",
+    "hero": "Kiran Abbavaram",
+    "heroine": "Sanjana Anand"
+  },
+  {
+    "id": "4oMf52m907c",
+    "title": "Aaha (Tug of War)",
+    "genres": ["Action"],
+    "thumbnail": "https://img.youtube.com/vi/4oMf52m907c/0.jpg",
+    "year": "2021",
+    "hero": "Indrajith Sukumaran",
+    "heroine": ""
+  },
+  {
+    "id": "Cjwgqyyg07o",
+    "title": "Saradhi",
+    "genres": ["Action"],
+    "thumbnail": "https://img.youtube.com/vi/Cjwgqyyg07o/0.jpg",
+    "year": "2024",
+    "hero": "Sudeep",
+    "heroine": "Amala Paul"
+  },
+  {
+    "id": "L2RHGm1TFyc",
+    "title": "Dejavu",
+    "genres": ["Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/L2RHGm1TFyc/0.jpg",
+    "year": "2022",
+    "hero": "Achyuth Kumar",
+    "heroine": "NirArulnithianjana"
+  },
+  {
+    "id": "ya7W4eeykCY",
+    "title": "7/G",
+    "genres": ["Horror"],
+    "thumbnail": "https://img.youtube.com/vi/ya7W4eeykCY/0.jpg",
+    "year": "2024",
+    "hero": "Smruthi Venkat",
+    "heroine": "Sonia Agarwal"
+  },
+  {
+    "id": "me3iZWnaJlY",
+    "title": "Striker",
+    "genres": ["Horror"],
+    "thumbnail": "https://img.youtube.com/vi/me3iZWnaJlY/0.jpg",
+    "year": "2023",
+    "hero": "Justin VijayR",
+    "heroine": "Abhinaya Sri"
+  },
+  {
+    "id": "7P1zmYFcDkA",
+    "title": "Bhargavi Mahal",
+    "genres": ["Horror"],
+    "thumbnail": "https://img.youtube.com/vi/7P1zmYFcDkA/0.jpg",
+    "year": "2018",
+    "hero": "Tovino Thomas",
+    "heroine": "Rima Kallingal"
+  },
+  {
+    "id": "wUt57dvdLAE",
+    "title": "Mayuraakshi (IRA)",
+    "genres": ["Crime","Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/wUt57dvdLAE/0.jpg",
+    "year": "2016",
+    "hero": "Unni Mukundan",
+    "heroine": ""
+  },
+  {
+    "id": "fs_ZbMDYVtg",
+    "title": "Vasantha Kalam",
+    "genres": ["Crime","Horror"],
+    "thumbnail": "https://img.youtube.com/vi/fs_ZbMDYVtg/0.jpg",
+    "year": "2019",
+    "hero": "",
+    "heroine": "Nayanthara",
+  },
+  {
+    "id": "fnyJjXlo8DE",
+    "title": "Calling 1980",
+    "genres": ["Sci-fi","Thriller"],
+    "thumbnail": "https://img.youtube.com/vi/fnyJjXlo8DE/0.jpg",
+    "year": "2021",
+    "hero": "Rajkiran J",
+    "heroine": "Priyanka Upendra"
   }
 ]
